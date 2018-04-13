@@ -2,6 +2,6 @@
 Simple MASM programs
 
 # To run
-masm <filename>.asm
-link <filename>
+masm filename.asm
+link filename
 filename
